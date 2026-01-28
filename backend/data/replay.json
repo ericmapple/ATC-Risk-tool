@@ -1,0 +1,28 @@
+{
+  "frames": [
+    {
+      "t": 0,
+      "aircraft": [
+        {"id":"A1","callsign":"ACA123","lat":45.45,"lon":-73.90,"alt_ft":36000,"gs_kt":450,"track_deg":70,"vr_fpm":0},
+        {"id":"B2","callsign":"WJA456","lat":45.60,"lon":-73.30,"alt_ft":36000,"gs_kt":460,"track_deg":250,"vr_fpm":0},
+        {"id":"C3","callsign":"TSK789","lat":45.20,"lon":-73.40,"alt_ft":34000,"gs_kt":430,"track_deg":20,"vr_fpm":0}
+      ]
+    },
+    {
+      "t": 1,
+      "aircraft": [
+        {"id":"A1","callsign":"ACA123","lat":45.47,"lon":-73.80,"alt_ft":36000,"gs_kt":450,"track_deg":70,"vr_fpm":0},
+        {"id":"B2","callsign":"WJA456","lat":45.58,"lon":-73.40,"alt_ft":36000,"gs_kt":460,"track_deg":250,"vr_fpm":0},
+        {"id":"C3","callsign":"TSK789","lat":45.22,"lon":-73.38,"alt_ft":34000,"gs_kt":430,"track_deg":20,"vr_fpm":0}
+      ]
+    },
+    {
+      "t": 2,
+      "aircraft": [
+        {"id":"A1","callsign":"ACA123","lat":45.49,"lon":-73.70,"alt_ft":36000,"gs_kt":450,"track_deg":70,"vr_fpm":0},
+        {"id":"B2","callsign":"WJA456","lat":45.56,"lon":-73.50,"alt_ft":36000,"gs_kt":460,"track_deg":250,"vr_fpm":0},
+        {"id":"C3","callsign":"TSK789","lat":45.24,"lon":-73.36,"alt_ft":34000,"gs_kt":430,"track_deg":20,"vr_fpm":0}
+      ]
+    }
+  ]
+}
